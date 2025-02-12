@@ -45,7 +45,7 @@ Baixe o ChromeDriver compatível com sua versão do Google Chrome em ChromeDrive
 
 6. Executar o Bot
 
-python bot.py
+mercadoLivreBot.py
 
 Exemplo de Uso
 
